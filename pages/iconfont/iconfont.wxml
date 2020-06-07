@@ -1,0 +1,10 @@
+<!--pages/iconfont/iconfont.wxml-->
+<view class="container">
+
+  <view class="uploader">
+      <icon class="iconfont icon-product"  size="14"></icon>
+  </view>
+ 
+
+</view>
+
