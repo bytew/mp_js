@@ -2,7 +2,7 @@
 <view class="container">
 
   <view class="uploader">
-      <icon class="iconfont icon-product"  size="14"></icon>
+      <icon class="iconfont icon-product" ></icon>
   </view>
  
 
