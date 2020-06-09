@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/iconfont/iconfont"
+    "pages/iconfont/iconfont",
+    "pages/progress/progress"
   ],
   "window": {
     "backgroundTextStyle": "light",

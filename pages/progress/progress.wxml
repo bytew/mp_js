@@ -1,0 +1,7 @@
+<!--pages/progress/progress.wxml-->
+<view style="padding:10px" >
+  <view class="progress-box">
+    <progress percent="20" show-info stroke-width="3"/>
+  </view>
+</view>
+
