@@ -1,1 +1,7 @@
 /* pages/progress/progress.wxss */
+
+.progress-box{
+  margin: 10px;
+}
+
+
